@@ -1,0 +1,149 @@
+/* stylelint-disable docusaurus/copyright-header */
+
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 966px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureImage {
+  height: 200px;
+  width: 200px;
+}
+
+.featureContent {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+.featureRow {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-top: 1px solid var(--ifm-color-secondary-darker);
+  max-height: 350px;
+  overflow-y: hidden;
+}
+
+
+.videoSection {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(41, 45, 62);
+  flex-direction: column;
+}
+
+.features {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  max-width: 1000px;
+  color: #fff;
+}
+
+.smallTitleAndText {
+  justify-content: flex-start;
+}
+
+section iframe {
+  width: 1000px;
+  height: 562px;
+}
+
+@media (max-width: 400px) {
+  .featureRow {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-top: 1px solid var(--ifm-color-secondary-darker);
+    overflow-y: hidden;
+    max-height: unset;
+  }
+
+  .featureContent {
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .titleAndText {
+    padding: 30px;
+  }
+
+  section iframe {
+    width: 350px;
+    height: 196px;
+  }
+
+  .features {
+    grid-template-columns: unset;
+    grid-template-rows: 1fr 1fr 1fr;
+  }
+}
+
+@media (max-width: 800px) {
+  section iframe {
+    width: 700px;
+    height: 393px;
+  }
+}
+
+.titleAndText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100%;
+}
+
+.imagePreviewContainer {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.imagePreviewImage {
+  height: 300px;
+}
+
+.darkBackground {
+  background-color: var(--ifm-menu-color-background-active);
+}
+
+.giveItATry {
+  background-color: rgb(41, 45, 62);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.giveItATry h1 {
+  color: var(--ifm-color-primary);
+}
