@@ -2,7 +2,6 @@
 id: customize-your-app-css
 title: Customize your app with CSS
 sidebar_label: Customize your app with CSS
-description:
 keywords:
   - buildfire
   - plugin

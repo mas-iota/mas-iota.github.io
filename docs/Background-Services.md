@@ -2,7 +2,6 @@
 id: widget
 title: Background Services
 sidebar_label: Background Services
-description:
 keywords:
   - buildfire
   - widget

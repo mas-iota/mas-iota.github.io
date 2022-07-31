@@ -2,7 +2,6 @@
 id: how-to-update-the-sdk
 title: How to Update the SDK
 sidebar_label: How to Update the SDK
-description:
 keywords:
   - buildfire
   - sdk

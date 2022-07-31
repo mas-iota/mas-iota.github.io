@@ -2,7 +2,6 @@
 id: local-notifications
 title: Local Notifications
 sidebar_label: Local Notifications
-description:
 keywords:
   - buildfire
   - notifications

@@ -2,7 +2,6 @@
 id: indexed-fields
 title: Indexed Fields
 sidebar_label: Indexed Fields
-description:
 keywords:
   - buildfire
   - index

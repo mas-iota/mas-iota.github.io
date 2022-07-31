@@ -2,7 +2,6 @@
 id: breadcrumbs
 title: Breadcrumbs
 sidebar_label: Breadcrumbs
-description:
 keywords:
   - buildfire
   - breadcrumbs

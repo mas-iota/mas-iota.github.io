@@ -2,7 +2,6 @@
 id: file-system
 title: File System
 sidebar_label: File System
-description:
 keywords:
   - buildfire
   - file

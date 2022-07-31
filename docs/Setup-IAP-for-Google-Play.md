@@ -2,7 +2,6 @@
 id: set-up-iap-for-google-play
 title: Configuring IAP in Google Play
 sidebar_label: Set up IAP for Google Play
-description:
 keywords:
   - buildfire
   - in

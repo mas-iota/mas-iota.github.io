@@ -2,7 +2,6 @@
 id: wysiwyg-editor
 title: WYSIWYG Editor
 sidebar_label: WYSIWYG Editor
-description:
 keywords:
   - buildfire
   - wysiwyg

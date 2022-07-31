@@ -3,13 +3,13 @@ module.exports = {
   title: "Buildfire Plugin SDK",
   tagline:
     "Comprehensive documentation to help you get started with Buildfire SDK",
-  url: "https://sdk.buildfire.com",
+  url: "https://mas-iota.github.io'",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "buildfire", // Usually your GitHub org/user name.
-  projectName: "buildfire.github.io", // Usually your repo name.
+  organizationName: "mas-iota", // Usually your GitHub org/user name.
+  projectName: "mas-iota.github.io", // Usually your repo name.
   themeConfig: {
     navbar: {
       logo: {
@@ -113,12 +113,9 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} BuildFire. Built with Docusaurus.`,
     },
     algolia: {
-      apiKey: "8f7e6ca907038b6e08b284a0921d2134",
+      apiKey: "e9f9095a38c98065eaa46bfe60497a34",
       indexName: "buildfire",
-      appId: "BH4D9OD16A",
-    },
-    gtag: {
-      trackingID: 'G-GK8BZT0BK4',
+      appId: "C4L38VH5HU",
     },
   },
   presets: [
@@ -138,6 +135,9 @@ module.exports = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
+      gtag: {
+          trackingID: 'G-GK8BZT0BK4',
+      },
       },
     ],
   ],

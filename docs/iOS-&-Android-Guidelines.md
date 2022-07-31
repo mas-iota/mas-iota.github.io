@@ -2,7 +2,6 @@
 id: ios-and-android-guidelines
 title: iOS and Android Guidelines
 sidebar_label: iOS and Android Guidelines
-description:
 keywords:
   - buildfire
   - ios

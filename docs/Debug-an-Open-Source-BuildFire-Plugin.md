@@ -2,7 +2,6 @@
 id: how-to-debug-an-open-source-plugin
 title: How to Debug an Open Source Buildfire Plugin
 sidebar_label: How to Debug an Open Source Buildfire Plugin
-description:
 keywords:
   - buildfire
   - debug

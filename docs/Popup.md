@@ -2,7 +2,6 @@
 id: popup
 title: Popup Component
 sidebar_label: Popup Component
-description:
 keywords:
   - buildfire
   - popup

@@ -2,7 +2,6 @@
 id: notifications
 title: Notifications
 sidebar_label: Notifications
-description:
 keywords:
   - buildfire
   - notifications

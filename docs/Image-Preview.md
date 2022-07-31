@@ -2,7 +2,6 @@
 id: image-preview
 title: Image Preview
 sidebar_label: Image Preview
-description:
 keywords:
   - buildfire
   - image

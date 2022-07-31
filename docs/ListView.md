@@ -2,7 +2,6 @@
 id: listview
 title: ListView
 sidebar_label: ListView
-description:
 keywords:
   - buildfire
   - listview

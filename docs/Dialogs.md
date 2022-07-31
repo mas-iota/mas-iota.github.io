@@ -2,7 +2,6 @@
 id: dialogs
 title: Dialogs
 sidebar_label: Dialogs
-description:
 keywords:
   - buildfire
   - dialog

@@ -2,7 +2,6 @@
 id: credit-system
 title: Credit System
 sidebar_label: Credit System
-description:
 keywords:
   - buildfire
   - credit

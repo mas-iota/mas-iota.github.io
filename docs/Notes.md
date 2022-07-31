@@ -2,7 +2,6 @@
 id: notes
 title: Notes
 sidebar_label: Notes
-description:
 keywords:
   - buildfire
   - notes

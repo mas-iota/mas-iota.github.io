@@ -2,7 +2,6 @@
 id: using-single-sign-on-sso
 title: Using Single Sign On (SSO)
 sidebar_label: Using Single Sign On (SSO)
-description:
 keywords:
   - buildfire
   - input

@@ -2,7 +2,6 @@
 id: using-oauth2-sign-in-integration
 title:  Using OAuth2 Sign In Integration
 sidebar_label: Using OAuth2 Sign In Integration
-description:
 keywords:
   - buildfire
   - input

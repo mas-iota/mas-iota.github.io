@@ -2,7 +2,6 @@
 id: search-engine
 title: Search Engine
 sidebar_label: Search Engine
-description:
 keywords:
   - buildfire
   - search

@@ -2,7 +2,6 @@
 id: navigation
 title: Navigation
 sidebar_label: Navigation
-description:
 keywords:
   - buildfire
   - navigation

@@ -2,7 +2,6 @@
 id: how-to-create-a-plugin
 title: How to Create a Plugin
 sidebar_label: How to Create a Plugin
-description:
 keywords:
   - buildfire
   - create

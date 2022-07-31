@@ -2,7 +2,6 @@
 id: buildfire.js
 title: buildfire.js
 sidebar_label: buildfire.js
-description:
 keywords:
   - buildfire
   - buildfire.js

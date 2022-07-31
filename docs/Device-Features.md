@@ -2,7 +2,6 @@
 id: device-features
 title: Device Features
 sidebar_label: Device Features
-description:
 keywords:
   - buildfire
   - device

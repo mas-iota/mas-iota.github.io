@@ -2,7 +2,6 @@
 id: low-energy-bluetooth
 title: Low Energy Bluetooth (BLE)
 sidebar_label: Low Energy Bluetooth (BLE)
-description:
 keywords:
   - buildfire
   - low

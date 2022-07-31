@@ -2,7 +2,6 @@
 id: datastore
 title: Datastore
 sidebar_label: Datastore
-description:
 keywords:
   - buildfire
   - database

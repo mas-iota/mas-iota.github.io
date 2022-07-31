@@ -2,7 +2,6 @@
 id: how-to-setup-your-development-environment
 title: How to Setup Your Development Environment
 sidebar_label: How to Setup Your Development Environment
-description:
 keywords:
   - buildfire
   - development

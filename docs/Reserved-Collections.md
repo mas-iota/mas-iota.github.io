@@ -2,7 +2,6 @@
 id: reserved-collections
 title: Reserved Collections
 sidebar_label: Reserved Collections
-description:
 keywords:
   - buildfire
   - reserved

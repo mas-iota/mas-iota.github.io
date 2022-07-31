@@ -2,7 +2,6 @@
 id: geodata
 title: GeoData
 sidebar_label: GeoData
-description:
 keywords:
   - buildfire
   - geodata

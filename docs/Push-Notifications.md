@@ -2,7 +2,6 @@
 id: push-notifications
 title: Push Notifications
 sidebar_label: Push Notifications
-description:
 keywords:
   - buildfire
   - push

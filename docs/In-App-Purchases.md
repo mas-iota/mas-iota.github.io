@@ -2,7 +2,6 @@
 id: in-app-purchases-commerce
 title: In App Purchases
 sidebar_label: In App Purchases
-description:
 keywords:
   - buildfire
   - in

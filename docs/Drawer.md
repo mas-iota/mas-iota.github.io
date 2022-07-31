@@ -2,7 +2,6 @@
 id: drawer
 title: Drawer
 sidebar_label: Drawer
-description:
 keywords:
   - buildfire
   - drawer

@@ -2,7 +2,6 @@
 id: firebase-integration
 title: Firebase Integration
 sidebar_label: Firebase Integration
-description:
 keywords:
   - buildfire
   - firebase

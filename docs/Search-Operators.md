@@ -2,7 +2,6 @@
 id: search-operators
 title: Search Operators
 sidebar_label: Search Operators
-description:
 keywords:
   - buildfire
   - search

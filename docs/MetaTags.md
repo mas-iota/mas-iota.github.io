@@ -2,7 +2,6 @@
 id: meta-tags
 title: MetaTags
 sidebar_label: MetaTags
-description:
 keywords:
   - buildfire
   - metatags

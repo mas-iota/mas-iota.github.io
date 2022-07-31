@@ -2,7 +2,6 @@
 id: toast
 title: Toast
 sidebar_label: Toast
-description:
 keywords:
   - buildfire
   - toast

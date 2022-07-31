@@ -2,7 +2,6 @@
 id: plugin-json-file
 title: '"plugin.json" File'
 sidebar_label: '"plugin.json" File'
-description:
 keywords:
   - buildfire
   - plugin

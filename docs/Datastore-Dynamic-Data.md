@@ -2,7 +2,6 @@
 id: datastore-dynamic-data
 title: Datastore Dynamic Data
 sidebar_label: Datastore Dynamic Data
-description:
 keywords:
   - buildfire
   - dynamic

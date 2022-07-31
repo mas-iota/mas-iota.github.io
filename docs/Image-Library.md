@@ -2,7 +2,6 @@
 id: imagelib
 title: Image Library
 sidebar_label: Image Library
-description:
 keywords:
   - buildfire
   - imagelib

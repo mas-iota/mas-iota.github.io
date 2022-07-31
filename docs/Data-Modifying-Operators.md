@@ -2,7 +2,6 @@
 id: data-modifying-operators
 title: Data Modifying Operators
 sidebar_label: Data Modifying Operators
-description:
 keywords:
   - buildfire
   - database

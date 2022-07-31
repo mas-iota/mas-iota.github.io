@@ -2,7 +2,6 @@
 id: geo-location-gps-feature
 title: Geo Location (GPS) Feature
 sidebar_label: Geo Location (GPS) Feature
-description:
 keywords:
   - buildfire
   - geo

@@ -2,7 +2,6 @@
 id: how-to-test-your-plugin-locally
 title: How to Test Your Plugin Locally
 sidebar_label: How to Test Your Plugin Locally
-description:
 keywords:
   - buildfire
   - plugin

@@ -2,7 +2,6 @@
 id: share-links-and-deep-linking
 title: Share Links and Deep Linking
 sidebar_label: Share Links and Deep Linking
-description:
 keywords:
   - buildfire
   - share

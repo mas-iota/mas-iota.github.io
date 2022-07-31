@@ -2,7 +2,6 @@
 id: aggregation
 title: Aggregation
 sidebar_label: Aggregation
-description:
 keywords:
   - buildfire
   - operators

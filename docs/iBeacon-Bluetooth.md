@@ -2,7 +2,6 @@
 id: ibeacon-bluetooth
 title: iBeacon Bluetooth
 sidebar_label: iBeacon Bluetooth
-description:
 keywords:
   - buildfire
   - bluetooth

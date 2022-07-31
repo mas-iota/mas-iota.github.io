@@ -2,7 +2,6 @@
 id: color-lib
 title: Color Lib
 sidebar_label: Color Lib
-description:
 keywords:
   - buildfire
   - color

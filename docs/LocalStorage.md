@@ -2,7 +2,6 @@
 id: local-storage
 title: Local Storage
 sidebar_label: Local Storage
-description:
 keywords:
   - buildfire
   - local

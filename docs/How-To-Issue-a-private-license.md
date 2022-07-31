@@ -2,7 +2,6 @@
 id: how-to-issue-a-private-licence
 title: How to Issue a Private Licence
 sidebar_label: How to Issue a Private Licence
-description:
 keywords:
   - buildfire
   - private

@@ -2,7 +2,6 @@
 id: features-list
 title: Features List
 sidebar_label: Features List
-description:
 keywords:
   - buildfire
   - features

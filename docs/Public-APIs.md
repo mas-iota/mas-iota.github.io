@@ -2,7 +2,6 @@
 id: public-apis
 title: Public HTTP APIs
 sidebar_label: Public HTTP APIs
-description:
 keywords:
   - buildfire
   - public

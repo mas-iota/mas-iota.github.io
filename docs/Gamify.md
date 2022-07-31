@@ -2,7 +2,6 @@
 id: gamify
 title: Gamify
 sidebar_label: Gamify
-description:
 keywords:
   - buildfire
   - gamify

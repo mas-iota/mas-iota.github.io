@@ -2,7 +2,6 @@
 id: thumbnail
 title: Thumbnail
 sidebar_label: Thumbnail
-description:
 keywords:
   - buildfire
   - thumbnail

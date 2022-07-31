@@ -2,7 +2,6 @@
 id: how-to-submit-your-plugin
 title: How to Submit Your Plugin
 sidebar_label: How to Submit Your Plugin
-description:
 keywords:
   - buildfire
   - plugin

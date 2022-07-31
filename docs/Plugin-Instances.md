@@ -2,7 +2,6 @@
 id: plugin-instances
 title: Plugin Instances
 sidebar_label: Plugin Instances
-description:
 keywords:
   - buildfire
   - instances

@@ -2,7 +2,6 @@
 id: triggering-a-hard-build
 title: Triggering a Hard Build
 sidebar_label: Triggering a Hard Build
-description:
 keywords:
   - buildfire
   - hard

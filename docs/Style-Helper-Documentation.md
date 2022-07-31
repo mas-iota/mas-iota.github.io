@@ -2,7 +2,6 @@
 id: style-helper
 title: Style Helper
 sidebar_label: Style Helper
-description:
 keywords:
   - buildfire
   - style

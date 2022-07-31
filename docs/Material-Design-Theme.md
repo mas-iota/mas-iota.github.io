@@ -2,7 +2,6 @@
 id: material-design-theme
 title: Material Design Theme
 sidebar_label: Material Design Theme
-description:
 keywords:
   - buildfire
   - material

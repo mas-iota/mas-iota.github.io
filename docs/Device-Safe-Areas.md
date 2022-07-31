@@ -2,7 +2,6 @@
 id: device-safe-areas
 title: Safe Areas
 sidebar_label: Safe Areas
-description:
 keywords:
   - buildfire
   - device

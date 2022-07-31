@@ -2,7 +2,6 @@
 id: set-up-iap-for-ios
 title: Configuring IAP in iTunes Connect
 sidebar_label: Set up IAP for iOS
-description:
 keywords:
   - buildfire
   - in

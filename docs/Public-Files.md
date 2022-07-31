@@ -2,7 +2,6 @@
 id: public-files
 title: Public Files
 sidebar_label: Public Files
-description:
 keywords:
   - buildfire
   - public

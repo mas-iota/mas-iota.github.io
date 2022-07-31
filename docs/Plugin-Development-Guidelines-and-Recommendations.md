@@ -2,7 +2,6 @@
 id: plugin-development-guidelines
 title: Plugin Development Guidelines
 sidebar_label: Plugin Development Guidelines
-description:
 keywords:
   - buildfire
   - plugin

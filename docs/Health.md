@@ -2,7 +2,6 @@
 id: health
 title: Health
 sidebar_label: Health
-description:
 keywords:
   - health
 slug: /health

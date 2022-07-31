@@ -2,7 +2,6 @@
 id: input-dialog
 title: Input Dialog
 sidebar_label: Input Dialog
-description:
 keywords:
   - buildfire
   - input

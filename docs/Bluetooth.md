@@ -2,7 +2,6 @@
 id: bluetooth
 title: Bluetooth
 sidebar_label: Bluetooth
-description:
 keywords:
   - buildfire
   - bluetooth

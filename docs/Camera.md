@@ -2,7 +2,6 @@
 id: camera
 title: Camera Service
 sidebar_label: Camera Service
-description:
 keywords:
   - buildfire
   - camera

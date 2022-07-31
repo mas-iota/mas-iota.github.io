@@ -2,7 +2,6 @@
 id: spinners
 title: Spinners
 sidebar_label: Spinners
-description:
 keywords:
   - buildfire
   - spinners
